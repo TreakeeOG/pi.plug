@@ -10,13 +10,6 @@ meet pi.plug, my custom designed smart plug and first IoT project, all thanks to
 3. Automation and scheduling support
 4. Compact 3D printed enclosure
 
-## BOM
-
-1. ESP8266 / ESP32 microcontroller
-2. Hi-Link HLK-PM01 (AC-DC 5V power module)
-3. Relay module
-4. 3D printed enclosure
-5. PCB
 
 ## Fusion 360
 
