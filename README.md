@@ -1,2 +1,46 @@
 # pi.plug
-A custom designed smart plug, my first IoT project
+
+meet pi.plug, my custom designed smart plug and first IoT project, all thanks to the nice peeps at Hack Club! This smart plug lets you control devices remotely, monitor power usage, and automate your home.
+
+---
+# Features
+
+1. Remote on/off control via Wi-Fi
+2. Power usage monitoring
+3. Automation and scheduling support
+4. Compact 3D printed enclosure
+
+## BOM
+
+1. ESP8266 / ESP32 microcontroller
+2. Hi-Link HLK-PM01 (AC-DC 5V power module)
+3. Relay module
+4. 3D printed enclosure
+5. PCB
+
+## Fusion 360
+
+### Case
+
+| Top | Side |
+| :--: | :--: |
+| *(coming soon)* | *(coming soon)* |
+
+---
+## KiCAD
+
+| Schematic | PCB |
+| :-------: | :-: |
+| *(coming soon)* | *(coming soon)* |
+
+---
+# Softwares Used
+
+* KiCAD -> PCB Design
+* Fusion 360 -> Case design
+* MicroPython / Arduino IDE -> Firmware
+
+---
+# Bibliography
+
+> This project would not have been possible without the help of the amazing people of the internet, the Hack Club blueprint guide, and a bit of AI.
